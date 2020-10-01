@@ -1,6 +1,6 @@
 ## Hearthstone Battleground Lab Page
 
-[Link](http://battlegroundlab.com/)
+[Battleground Lab](http://battlegroundlab.com/)
 
 <!-- ## Welcome to GitHub Pages
 
