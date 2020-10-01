@@ -166,7 +166,8 @@ export default {
         race == 'murloc' ? '#91c7ae' :
         race == 'dragon' ? '#d48265' :
         race == 'pirate' ? '#61a0a8' :
-        race == 'neutral' ? '#ffc107' :
+        race == 'elemental' ? '#fde15c' :
+        race == 'neutral' ? '#bdddfd' :
         '#e5e5e5'
       ;
     }

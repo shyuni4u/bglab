@@ -2,18 +2,19 @@
   <div class="race">
     
     <!-- https://art.hearthstonejson.com/v1/render/latest/${type == 'kr' ? 'koKR' : 'enUS'}/256x/${path}.png -->
-    <!--
-    <img
+    
+    <!-- <img
     v-for="card in tests"
     :key="card"
-    :src="`https://art.hearthstonejson.com/v1/render/latest/enUS/256x/${card}.png`"
-    :alt="card" />
-    -->
+    :src="`https://art.hearthstonejson.com/v1/render/latest/koKR/256x/${card}.png`"
+    :alt="card" /> -->
+   
     <img
     v-for="card in tests"
     :key="card"
     :src="`https://art.hearthstonejson.com/v1/256x/${card}.jpg`"
     :alt="card" />
+
     <!-- orig, 256x, 512x -->
 
   </div>
@@ -337,12 +338,13 @@ export default {
         'TB_BaconShop_HP_069'
       ],
       tests: [
-        'TB_BaconShop_HERO_71',
-        'TB_BaconShop_HERO_72',
-        'TB_BaconShop_HERO_74',
-        'TB_BaconShop_HP_081',
-        'TB_BaconShop_HP_082',
-        'TB_BaconShop_HP_084'
+        // 'TB_BaconShop_HERO_75',
+        // 'TB_BaconShop_HERO_76',
+        // 'TB_BaconShop_HERO_78',
+        // 'TB_BaconShop_HP_085',
+        // 'TB_BaconShop_HP_086',
+        // 'TB_BaconShop_HP_087',
+        // 'TB_BaconShop_HP_088'
       ]
     }
   },
