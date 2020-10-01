@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://battlegroundlab.com/</loc>
+    <lastmod>2020-04-02T07:50:03+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/test</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/notice</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/player</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/hero</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/minion</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/race</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/gameDetail</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/static</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/raceChart</loc>
+  </url>
+  <url>
+    <loc>http://battlegroundlab.com/manual</loc>
+  </url>
+</urlset>

@@ -1,0 +1,8 @@
+let arr = [];
+let idx = 0;
+document.getElementById('cards').querySelectorAll('tr').forEach((el)=> {
+    if (idx == 0) { idx++; return false; }
+    const data = el.querySelector('td:nth-child(2) > a');
+    arr.push(data.id + '|' + data.textContent);
+})
+console.log(arr.join('\n'))
